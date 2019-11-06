@@ -1,5 +1,0 @@
-rub = int(input())
-kop = int(input())
-number = int(input())
-price = number * (rub * 100 + kop)
-print(price // 100, price % 100)
