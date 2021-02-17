@@ -1,11 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T13:35:23.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="SWbzSraFhGuFtmb98LQm" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-17T14:38:15.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="jlm63qMISozHu0mzI2A3" version="14.3.2" type="github" pages="2">
   <diagram name="Jira - Structure" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="782" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KZfEq4PjZTaoLLtRf_3A-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KZfEq4PjZTaoLLtRf_3A-11" target="KZfEq4PjZTaoLLtRf_3A-14">
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="159.5" as="sourcePoint" />
+            <mxPoint x="810" y="159.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="159.5" />
+              <mxPoint x="620" y="159.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KZfEq4PjZTaoLLtRf_3A-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="330" />
               <mxPoint x="620" y="330" />
@@ -54,13 +65,13 @@
         <mxCell id="zYBQ2tV1xO66oVyMY-6t-23" value="Bugs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="165" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LvQOMLrBuf0VgDN2-tLI-3" value="Spikes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LvQOMLrBuf0VgDN2-tLI-3" value="Others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="210" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LvQOMLrBuf0VgDN2-tLI-5" value="Spikes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LvQOMLrBuf0VgDN2-tLI-5" value="Others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="210" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LvQOMLrBuf0VgDN2-tLI-6" value="Spikes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LvQOMLrBuf0VgDN2-tLI-6" value="Others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="210" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
