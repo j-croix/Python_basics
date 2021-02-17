@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T14:38:15.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="jlm63qMISozHu0mzI2A3" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-17T14:53:50.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="RZY7WjBufBJDis2XjVxJ" version="14.3.2" type="github" pages="2">
   <diagram name="Jira - Structure" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="782" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -81,16 +81,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-7" value="Q1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="450" width="40" height="20" as="geometry" />
+          <mxGeometry x="330" y="10" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-8" value="Q2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="550" y="450" width="40" height="20" as="geometry" />
+          <mxGeometry x="530" y="10" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-9" value="Roadmap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="450" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-10" value="Q3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="450" width="40" height="20" as="geometry" />
+          <mxGeometry x="730" y="10" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-11" value="Sprint 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="120" y="290" width="80" height="80" as="geometry" />
