@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-02-17T14:53:50.031Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="RZY7WjBufBJDis2XjVxJ" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-19T15:30:56.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="dMLNZV9v4U1j0S_HQT7B" version="14.3.2" type="github" pages="2">
   <diagram name="Jira - Structure" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="782" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1102" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="60" width="720" height="360" as="geometry" />
+        </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="159.5" as="sourcePoint" />
@@ -104,6 +107,11 @@
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-14" value="Sprint N" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="700" y="290" width="80" height="80" as="geometry" />
         </mxCell>
+        <UserObject label="Release Train" placeholders="1" name="Variable" id="KZfEq4PjZTaoLLtRf_3A-21">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="120" y="390" width="80" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
