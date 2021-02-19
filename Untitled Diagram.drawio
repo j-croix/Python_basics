@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-19T15:30:56.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="dMLNZV9v4U1j0S_HQT7B" version="14.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-02-19T15:47:51.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="06fKamaoO4WgcIEQqxj0" version="14.3.2" type="github" pages="2">
   <diagram name="Jira - Structure" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1102" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-4" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="470" as="sourcePoint" />
-            <mxPoint x="800" y="470" as="targetPoint" />
+            <mxPoint x="115" y="850" as="sourcePoint" />
+            <mxPoint x="795" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-7" value="Q1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -90,7 +90,7 @@
           <mxGeometry x="530" y="10" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-9" value="Roadmap" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="450" width="30" height="20" as="geometry" />
+          <mxGeometry x="140" y="810" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-10" value="Q3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="10" width="40" height="20" as="geometry" />
@@ -107,9 +107,93 @@
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-14" value="Sprint N" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="700" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <UserObject label="Release Train" placeholders="1" name="Variable" id="KZfEq4PjZTaoLLtRf_3A-21">
+        <UserObject label="Release Train 1" placeholders="1" name="Variable" id="KZfEq4PjZTaoLLtRf_3A-21">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
-            <mxGeometry x="120" y="390" width="80" height="20" as="geometry" />
+            <mxGeometry x="120" y="390" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-46" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="480" width="720" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="579.5" as="sourcePoint" />
+            <mxPoint x="810" y="579.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="579.5" />
+              <mxPoint x="620" y="579.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KZfEq4PjZTaoLLtRf_3A-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="750" />
+              <mxPoint x="620" y="750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-49" value="Release 1" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-50" value="User Stories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="505" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-51" value="Tech Tasks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="545" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-52" value="Bugs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="585" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-53" value="Release 2" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="350" y="490" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-54" value="User Stories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="505" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-55" value="Tech Tasks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="545" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-56" value="Bugs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="585" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-57" value="Release N" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="580" y="490" width="210" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-58" value="User Stories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="505" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-59" value="Tech Tasks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="545" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-60" value="Bugs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="585" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-61" value="Others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="630" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-62" value="Others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="630" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-63" value="Others" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="630" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-64" value="Sprint 1" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-65" value="Sprint 2" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="220" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-66" value="Sprint 3" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KZfEq4PjZTaoLLtRf_3A-67" value="Sprint N" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="700" y="710" width="80" height="80" as="geometry" />
+        </mxCell>
+        <UserObject label="Release Train 2" placeholders="1" name="Variable" id="KZfEq4PjZTaoLLtRf_3A-68">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="1">
+            <mxGeometry x="120" y="810" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
