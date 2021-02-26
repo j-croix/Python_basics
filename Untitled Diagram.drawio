@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T12:15:12.544Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="uOQPsK2mRcGLorvnNHTH" version="14.3.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-26T13:48:58.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="XVImFvrD72fSG_LJEMn3" version="14.3.2" type="github" pages="4">
   <diagram name="Jira - Structure" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1102" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EoIfOa-mQv8-iU-O-UPE-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="570" width="280" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="990" y="405" width="150" height="295" as="geometry" />
         </mxCell>
         <mxCell id="KZfEq4PjZTaoLLtRf_3A-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -303,6 +306,9 @@
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-47" value="Sales requests" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1270" y="740" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-49" value="These three components are basically one app. May be bad idea to split by different Jira projects" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="715" width="200" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
