@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T13:48:58.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="XVImFvrD72fSG_LJEMn3" version="14.3.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-26T13:50:28.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="9R2kUci3n5YI8Oke9L6u" version="14.3.2" type="github" pages="4">
   <diagram name="Jira - Structure" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1102" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
           <mxGeometry x="1100" y="210" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-6" value="Can refer to several releases or sometimes to several streams" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="280" width="340" height="20" as="geometry" />
+          <mxGeometry x="1010" y="270" width="340" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-7" value="Streams" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="415" width="40" height="20" as="geometry" />
