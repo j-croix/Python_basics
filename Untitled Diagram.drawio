@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-26T13:50:28.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="9R2kUci3n5YI8Oke9L6u" version="14.3.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-02-26T13:55:14.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.344" etag="AbfuHSEPFRnJdTdYvaqL" version="14.3.2" type="github" pages="4">
   <diagram name="Jira - Structure" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1102" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -260,31 +260,31 @@
           <mxGeometry x="1035" y="660" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="405" width="140" height="175" as="geometry" />
+          <mxGeometry x="1225" y="405" width="140" height="175" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-27" value="Components by codebase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="415" width="110" height="20" as="geometry" />
+          <mxGeometry x="1245" y="415" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="450" width="110" height="30" as="geometry" />
+          <mxGeometry x="1235" y="450" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="490" width="110" height="30" as="geometry" />
+          <mxGeometry x="1235" y="490" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="535" width="110" height="30" as="geometry" />
+          <mxGeometry x="1235" y="535" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-34" value="Unity App" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1265" y="455" width="40" height="20" as="geometry" />
+          <mxGeometry x="1270" y="455" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-35" value="Firebase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1265" y="495" width="40" height="20" as="geometry" />
+          <mxGeometry x="1270" y="495" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-36" value="Web Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1265" y="540" width="40" height="20" as="geometry" />
+          <mxGeometry x="1270" y="540" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1225" y="605" width="140" height="175" as="geometry" />
+          <mxGeometry x="1225" y="605" width="140" height="215" as="geometry" />
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-41" value="Components by source of request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1245" y="615" width="110" height="20" as="geometry" />
@@ -309,6 +309,48 @@
         </mxCell>
         <mxCell id="EoIfOa-mQv8-iU-O-UPE-49" value="These three components are basically one app. May be bad idea to split by different Jira projects" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="715" width="200" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="605" width="140" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-52" value="Components by focus area" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="615" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="650" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="690" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="780" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-56" value="Security" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="655" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-57" value="Performance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="695" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-58" value="Tech Debt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="785" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-59" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="735" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-60" value="Scalability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="740" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="780" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-62" value="Supportability" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="785" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="825" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EoIfOa-mQv8-iU-O-UPE-64" value="Others - TBD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="830" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
